@@ -9,7 +9,7 @@ This repository is for practice purpose only
 
 ## Repository folders
 The core repository consists of:
-- Google Drive, contains: 
-  - files
-- GitHub (this repository):
+- Google Drive : 
+  - R Practice
+- GitHub (repository):
   - Readme
